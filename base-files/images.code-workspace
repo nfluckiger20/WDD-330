@@ -1,0 +1,18 @@
+{
+  "folders": [
+	{
+		"name": "images",
+		"path": "../../../../Downloads/images"
+	},
+	{
+		"name": "nicolefluckiger",
+		"path": "../../WDD 230/nicolefluckiger"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "WDD 330"
+  }
+}
