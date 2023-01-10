@@ -7,7 +7,6 @@ When the page loads
         render the list of pokemon
         style the clicked type as active
         filter out types with no pokemon (shadow and unknown)
-        test change
 
 
 */
